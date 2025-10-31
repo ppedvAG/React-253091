@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "123"
+    }
+  ],
+  "participants": [
+    {
+      "name": "Patrick",
+      "id": 1761922404307
+    },
+    {
+      "name": "Daniel",
+      "id": 1761922407880
+    },
+    {
+      "name": "admin",
+      "id": 1761922410973
+    }
+  ]
+}
